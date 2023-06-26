@@ -1,4 +1,4 @@
-# Pic-18f4620
+# CalculadoraResta
 Este proyecto fue la entrega final de la materia "Arquitectura 2". El programa simula una calculadora que resuelve la resta entre 2 números de 1 dígito c/u que ingresa al PIC como un único número de 8 bits.
 Según sea el resultado positivo, negativo o no representable (número de 2 dígitos), se encienden los displays del circuito.
 
